@@ -1,0 +1,2 @@
+rootProject.name='My FingerprintAuthenticate app'
+include ':app'
